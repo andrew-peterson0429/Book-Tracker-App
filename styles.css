@@ -1,0 +1,33 @@
+
+/*----------- HEADER --------------*/
+header {
+    padding: .5rem 2%;
+    background-color: pink;
+}
+header h1 {margin: 0;}
+header h2 {margin: 0; font-weight: normal;}
+
+#header {
+    background-color: pink;
+}
+
+#searchDiv {
+    background-color: aqua;
+}
+
+#containers {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#outputDiv {
+    background-color: blueviolet;
+}
+
+#wantToReadBooksDiv {
+    background-color: cadetblue;
+}
+
+#readBooksDiv {
+    background-color: coral;
+}
